@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello from learn branch\n");
+    printf("Hello from LEARN branch (updated)\n");
     return 0;
 }
